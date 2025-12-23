@@ -4,17 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94d011af-86b7-4e3e-a1c1-76c454f9f7db" name="Changes" comment="Java Basics Practice - 17 Dec 2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_ClassNames/Lab0019_Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics_ClassNames/Lab0019_Multiple_variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Constants_Literals/Lab0020_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Constants_Literals/Lab0021_Literals_Types.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Constants_Literals/Lab0022_Boolean_Literal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Constants_Literals/Lab0023_Binary_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Constants_Literals/Lab0024_Character_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Constants_Literals/Lab0025_Literals_Escape_Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_03_Constants_Literals/Lab0026_Non_Premitive_Literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0027_Operator_Assignment.java" afterDir="false" />
+    <list default="true" id="94d011af-86b7-4e3e-a1c1-76c454f9f7db" name="Changes" comment="Java Basics Practice - 19 Dec 2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0028_Arithmetic_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0029_Relational_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0030_Unary_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0031_Modules_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0032_Logical_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0033_InterviewQ_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0034_InterviewQ2_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0035_InterviewQ3_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0036_InterviewQ4_BODMAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0037_Double_Equals_Operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0038_InterviewQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0039_InterviewQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0040_InterviewQ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0041_All_Operators_Examples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0042_Instance_Operators_Examples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0043_InterviewQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0044_InterviewQuestions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0045_InterviewQ_char_int.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0046_InterviewQ1_char_int.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +84,24 @@
     "Application.Lab0025_Literals_Escape_Sequence.executor": "Run",
     "Application.Lab0026_Non_Premitive_Literals.executor": "Run",
     "Application.Lab0027_Operator_Assignment.executor": "Run",
+    "Application.Lab0028_Arithmetic_Operators.executor": "Run",
+    "Application.Lab0029_Relational_Operators.executor": "Run",
+    "Application.Lab0029_Unary_Operators.executor": "Run",
+    "Application.Lab0031_Modules_Operators.executor": "Run",
+    "Application.Lab0032_Logical_Operators.executor": "Run",
+    "Application.Lab0033_InterviewQ_Operators.executor": "Run",
+    "Application.Lab0034_InterviewQ2_Operators.executor": "Run",
+    "Application.Lab0035_InterviewQ3_Operators.executor": "Run",
+    "Application.Lab0036_InterviewQ3_BODMAS.executor": "Run",
+    "Application.Lab0037_Double_Equals_Operators.executor": "Run",
+    "Application.Lab0038_InterviewQ.executor": "Run",
+    "Application.Lab0039_InterviewQ2.executor": "Run",
+    "Application.Lab0041_All_Operators_Examples.executor": "Run",
+    "Application.Lab0042_Instance_Operators_Examples.executor": "Run",
+    "Application.Lab0043_InterviewQuestion.executor": "Run",
+    "Application.Lab0045_InterviewQ_char_int.executor": "Run",
+    "Application.Lab0046_InterviewQ1_char_int.executor": "Run",
+    "Application.Lab0050_InterviewQ3.executor": "Run",
     "Application.Lab006_Math_Exersize_Basic.executor": "Run",
     "Application.Lab007_Math_Exersize_basic2.executor": "Run",
     "Application.Lab008_Println.executor": "Run",
@@ -89,13 +116,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab0027_Operator_Assignment">
-    <configuration name="Lab0023_Binary_Literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Constants_Literals.Lab0023_Binary_Literals" />
+  <component name="RunManager" selected="Application.Lab0046_InterviewQ1_char_int">
+    <configuration name="Lab0041_All_Operators_Examples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab0041_All_Operators_Examples" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Constants_Literals.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0024_Character_Literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Constants_Literals.Lab0024_Character_Literals" />
+    <configuration name="Lab0042_Instance_Operators_Examples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab0042_Instance_Operators_Examples" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Constants_Literals.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0025_Literals_Escape_Sequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Constants_Literals.Lab0025_Literals_Escape_Sequence" />
+    <configuration name="Lab0043_InterviewQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab0043_InterviewQuestion" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Constants_Literals.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0026_Non_Premitive_Literals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_03_Constants_Literals.Lab0026_Non_Premitive_Literals" />
+    <configuration name="Lab0045_InterviewQ_char_int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab0045_InterviewQ_char_int" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_03_Constants_Literals.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,8 +169,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0027_Operator_Assignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab0027_Operator_Assignment" />
+    <configuration name="Lab0046_InterviewQ1_char_int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab0046_InterviewQ1_char_int" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
@@ -157,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab0027_Operator_Assignment" />
-        <item itemvalue="Application.Lab0024_Character_Literals" />
-        <item itemvalue="Application.Lab0026_Non_Premitive_Literals" />
-        <item itemvalue="Application.Lab0025_Literals_Escape_Sequence" />
-        <item itemvalue="Application.Lab0023_Binary_Literals" />
+        <item itemvalue="Application.Lab0046_InterviewQ1_char_int" />
+        <item itemvalue="Application.Lab0045_InterviewQ_char_int" />
+        <item itemvalue="Application.Lab0043_InterviewQuestion" />
+        <item itemvalue="Application.Lab0042_Instance_Operators_Examples" />
+        <item itemvalue="Application.Lab0041_All_Operators_Examples" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766025514688</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java Basics Practice - 19 Dec 2025">
+      <option name="closed" value="true" />
+      <created>1766247296220</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766247296220</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +251,7 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Java Basics Practice - 16 Dec 2025" />
     <MESSAGE value="Java Basics Practice - 17 Dec 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Basics Practice - 17 Dec 2025" />
+    <MESSAGE value="Java Basics Practice - 19 Dec 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Basics Practice - 19 Dec 2025" />
   </component>
 </project>
