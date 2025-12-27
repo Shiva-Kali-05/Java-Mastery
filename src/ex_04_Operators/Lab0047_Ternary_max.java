@@ -1,8 +1,6 @@
 package ex_04_Operators;
 
-import org.w3c.dom.ls.LSOutput;
-
-public class Ternary_max {
+public class Lab0047_Ternary_max {
     public static void main(String[] args) {
         int n1 =2;
         int n2 =9;

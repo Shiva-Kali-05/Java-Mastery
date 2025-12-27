@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94d011af-86b7-4e3e-a1c1-76c454f9f7db" name="Changes" comment="Java Operators Practice - 22 Dec 2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Ternary_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_04_Operators/Ternary_max.java" afterDir="false" />
+    <list default="true" id="94d011af-86b7-4e3e-a1c1-76c454f9f7db" name="Changes" comment="Java TernaryOperator - 23 Dec 2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting_Basics/Lab0049_TypeCasting_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting_Basics/Lab0050_TypeCasting_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting_Basics/Lab0051_TypeCasting_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting_Basics/Lab0052_TypeCasting_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting_Basics/Lab0053_TypeCasting_char_exampple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0054_Ternary_Operator_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0055_Ternary_Operator_numispositiveornegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0056_Ternary_Operator_OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0057_Nested_Turnary_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0058_Nested_Turnary_Operator_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0059_Turnary_Operator_Two_Max_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0060_Turnary_Operator_Three_Max_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0061_CLI_Inputs_Java.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_04_Operators/Ternary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0048_Ternary_Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_04_Operators/Ternary_max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0047_Ternary_max.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +98,18 @@
     "Application.Lab0045_InterviewQ_char_int.executor": "Run",
     "Application.Lab0046_InterviewQ1_char_int.executor": "Run",
     "Application.Lab0050_InterviewQ3.executor": "Run",
+    "Application.Lab0050_TypeCasting_2.executor": "Run",
+    "Application.Lab0051_TypeCasting_3.executor": "Run",
+    "Application.Lab0052_TypeCasting_4.executor": "Run",
+    "Application.Lab0053_TypeCasting_char_exampple.executor": "Run",
+    "Application.Lab0054_Ternary_Operator_01.executor": "Run",
+    "Application.Lab0055_Ternary_Operator_numispositiveornegative.executor": "Run",
+    "Application.Lab0056_Ternary_Operator_OddEven.executor": "Run",
+    "Application.Lab0057_Nested_Turnary_Operator.executor": "Run",
+    "Application.Lab0058_Nested_Turnary_Operator_01.executor": "Run",
+    "Application.Lab0058_Nested_Turnary_Operator_InterviewQ.executor": "Run",
+    "Application.Lab0060_Turnary_Operator_Three_Max_Number.executor": "Run",
+    "Application.Lab0061_CLI_Inputs_Java.executor": "Run",
     "Application.Lab006_Math_Exersize_Basic.executor": "Run",
     "Application.Lab007_Math_Exersize_basic2.executor": "Run",
     "Application.Lab008_Println.executor": "Run",
@@ -101,13 +126,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ternary_max">
-    <configuration name="Lab0043_InterviewQuestion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab0043_InterviewQuestion" />
+  <component name="RunManager" selected="Application.Lab0061_CLI_Inputs_Java">
+    <configuration name="Lab0057_Nested_Turnary_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab0057_Nested_Turnary_Operator" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0045_InterviewQ_char_int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab0045_InterviewQ_char_int" />
+    <configuration name="Lab0058_Nested_Turnary_Operator_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab0058_Nested_Turnary_Operator_01" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0046_InterviewQ1_char_int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab0046_InterviewQ1_char_int" />
+    <configuration name="Lab0059_Turnary_Operator_Two_Max_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab0059_Turnary_Operator_Two_Max_Numbers" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ternary_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Ternary_Operator" />
+    <configuration name="Lab0060_Turnary_Operator_Three_Max_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab0060_Turnary_Operator_Three_Max_Number" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +179,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ternary_max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Ternary_max" />
+    <configuration name="Lab0061_CLI_Inputs_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab0061_CLI_Inputs_Java" />
       <module name="LearningJavaATB15xProgram" />
+      <option name="PROGRAM_PARAMETERS" value="75" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,13 +193,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Lab0057_Nested_Turnary_Operator" />
+      <item itemvalue="Application.Lab0058_Nested_Turnary_Operator_01" />
+      <item itemvalue="Application.Lab0059_Turnary_Operator_Two_Max_Numbers" />
+      <item itemvalue="Application.Lab0060_Turnary_Operator_Three_Max_Number" />
+      <item itemvalue="Application.Lab0061_CLI_Inputs_Java" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ternary_max" />
-        <item itemvalue="Application.Ternary_Operator" />
-        <item itemvalue="Application.Lab0046_InterviewQ1_char_int" />
-        <item itemvalue="Application.Lab0045_InterviewQ_char_int" />
-        <item itemvalue="Application.Lab0043_InterviewQuestion" />
+        <item itemvalue="Application.Lab0061_CLI_Inputs_Java" />
+        <item itemvalue="Application.Lab0060_Turnary_Operator_Three_Max_Number" />
+        <item itemvalue="Application.Lab0059_Turnary_Operator_Two_Max_Numbers" />
+        <item itemvalue="Application.Lab0058_Nested_Turnary_Operator_01" />
+        <item itemvalue="Application.Lab0057_Nested_Turnary_Operator" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766461371348</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Java TernaryOperator - 23 Dec 2025">
+      <option name="closed" value="true" />
+      <created>1766544150610</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766544150610</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,6 +287,7 @@
     <MESSAGE value="Java Basics Practice - 17 Dec 2025" />
     <MESSAGE value="Java Basics Practice - 19 Dec 2025" />
     <MESSAGE value="Java Operators Practice - 22 Dec 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Operators Practice - 22 Dec 2025" />
+    <MESSAGE value="Java TernaryOperator - 23 Dec 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java TernaryOperator - 23 Dec 2025" />
   </component>
 </project>
