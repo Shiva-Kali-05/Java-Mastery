@@ -5,22 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d011af-86b7-4e3e-a1c1-76c454f9f7db" name="Changes" comment="Java TernaryOperator - 23 Dec 2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting_Basics/Lab0049_TypeCasting_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting_Basics/Lab0050_TypeCasting_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting_Basics/Lab0051_TypeCasting_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting_Basics/Lab0052_TypeCasting_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_05_TypeCasting_Basics/Lab0053_TypeCasting_char_exampple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0054_Ternary_Operator_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0055_Ternary_Operator_numispositiveornegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0056_Ternary_Operator_OddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0057_Nested_Turnary_Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0058_Nested_Turnary_Operator_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0059_Turnary_Operator_Two_Max_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0060_Turnary_Operator_Three_Max_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_06_Ternary_Operator/Lab0061_CLI_Inputs_Java.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0062_PreOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0063_PostOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0064_PostOperators_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0065_PostOperators_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0066_PostOperators_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0067_Decrement_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0068_Interview_Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0069_Interview_Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0070_Interview_Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab0071_If_Statement_CommandLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab0072_If_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab0073_If_Statement_userInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab0074_If_Statement_InterviewQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab0075_If_ElseIf_Else.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab0076_If_Else_InterviewQ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab0077_If_Else_InterviewQ2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab0078_If_Else_InterviewQ2_AlternativeWay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_04_Operators/Ternary_Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0048_Ternary_Operator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_04_Operators/Ternary_max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_04_Operators/Lab0047_Ternary_max.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +112,24 @@
     "Application.Lab0058_Nested_Turnary_Operator_InterviewQ.executor": "Run",
     "Application.Lab0060_Turnary_Operator_Three_Max_Number.executor": "Run",
     "Application.Lab0061_CLI_Inputs_Java.executor": "Run",
+    "Application.Lab0062_PreOperators.executor": "Debug",
+    "Application.Lab0063_PostOperators.executor": "Run",
+    "Application.Lab0064_PostOperators_2.executor": "Run",
+    "Application.Lab0065_PostOperators_3.executor": "Run",
+    "Application.Lab0066_PostOperators_4.executor": "Run",
+    "Application.Lab0067_Decrement_Operator.executor": "Debug",
+    "Application.Lab0068_Interview_Q1.executor": "Debug",
+    "Application.Lab0069_Interview_Q2.executor": "Debug",
     "Application.Lab006_Math_Exersize_Basic.executor": "Run",
+    "Application.Lab0070_Interview_Q3.executor": "Debug",
+    "Application.Lab0071_If_Statement.executor": "Run",
+    "Application.Lab0072_If_Statement.executor": "Run",
+    "Application.Lab0073_If_Statement_userInput.executor": "Run",
+    "Application.Lab0074_If_Statement_InterviewQ.executor": "Run",
+    "Application.Lab0075_If_ElseIf_Else.executor": "Run",
+    "Application.Lab0075_If_Else_InterviewQ.executor": "Run",
+    "Application.Lab0077_If_Else_InterviewQ2.executor": "Run",
+    "Application.Lab0078_If_Else_InterviewQ2_AlternativeWay.executor": "Run",
     "Application.Lab007_Math_Exersize_basic2.executor": "Run",
     "Application.Lab008_Println.executor": "Run",
     "Application.Ternary_Operator.executor": "Run",
@@ -126,13 +145,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab0061_CLI_Inputs_Java">
-    <configuration name="Lab0057_Nested_Turnary_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab0057_Nested_Turnary_Operator" />
+  <component name="RunManager" selected="Application.Lab0078_If_Else_InterviewQ2_AlternativeWay">
+    <configuration name="Lab0074_If_Statement_InterviewQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab0074_If_Statement_InterviewQ" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0058_Nested_Turnary_Operator_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab0058_Nested_Turnary_Operator_01" />
+    <configuration name="Lab0075_If_ElseIf_Else" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab0075_If_ElseIf_Else" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0059_Turnary_Operator_Two_Max_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab0059_Turnary_Operator_Two_Max_Numbers" />
+    <configuration name="Lab0076_If_Else_InterviewQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab0076_If_Else_InterviewQ" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0060_Turnary_Operator_Three_Max_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab0060_Turnary_Operator_Three_Max_Number" />
+    <configuration name="Lab0077_If_Else_InterviewQ2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab0077_If_Else_InterviewQ2" />
       <module name="LearningJavaATB15xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,13 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0061_CLI_Inputs_Java" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_06_Ternary_Operator.Lab0061_CLI_Inputs_Java" />
+    <configuration name="Lab0078_If_Else_InterviewQ2_AlternativeWay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab0078_If_Else_InterviewQ2_AlternativeWay" />
       <module name="LearningJavaATB15xProgram" />
-      <option name="PROGRAM_PARAMETERS" value="75" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_06_Ternary_Operator.*" />
+          <option name="PATTERN" value="ex_08_If_Condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -194,19 +212,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab0057_Nested_Turnary_Operator" />
-      <item itemvalue="Application.Lab0058_Nested_Turnary_Operator_01" />
-      <item itemvalue="Application.Lab0059_Turnary_Operator_Two_Max_Numbers" />
-      <item itemvalue="Application.Lab0060_Turnary_Operator_Three_Max_Number" />
-      <item itemvalue="Application.Lab0061_CLI_Inputs_Java" />
+      <item itemvalue="Application.Lab0074_If_Statement_InterviewQ" />
+      <item itemvalue="Application.Lab0075_If_ElseIf_Else" />
+      <item itemvalue="Application.Lab0076_If_Else_InterviewQ" />
+      <item itemvalue="Application.Lab0077_If_Else_InterviewQ2" />
+      <item itemvalue="Application.Lab0078_If_Else_InterviewQ2_AlternativeWay" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab0061_CLI_Inputs_Java" />
-        <item itemvalue="Application.Lab0060_Turnary_Operator_Three_Max_Number" />
-        <item itemvalue="Application.Lab0059_Turnary_Operator_Two_Max_Numbers" />
-        <item itemvalue="Application.Lab0058_Nested_Turnary_Operator_01" />
-        <item itemvalue="Application.Lab0057_Nested_Turnary_Operator" />
+        <item itemvalue="Application.Lab0078_If_Else_InterviewQ2_AlternativeWay" />
+        <item itemvalue="Application.Lab0077_If_Else_InterviewQ2" />
+        <item itemvalue="Application.Lab0076_If_Else_InterviewQ" />
+        <item itemvalue="Application.Lab0075_If_ElseIf_Else" />
+        <item itemvalue="Application.Lab0074_If_Statement_InterviewQ" />
       </list>
     </recent_temporary>
   </component>
@@ -289,5 +307,26 @@
     <MESSAGE value="Java Operators Practice - 22 Dec 2025" />
     <MESSAGE value="Java TernaryOperator - 23 Dec 2025" />
     <option name="LAST_COMMIT_MESSAGE" value="Java TernaryOperator - 23 Dec 2025" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0068_Interview_Q1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0068_Interview_Q1.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ex_07_IncrementDecrement_Operators/Lab0068_Interview_Q1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
