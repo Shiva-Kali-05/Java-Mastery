@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94d011af-86b7-4e3e-a1c1-76c454f9f7db" name="Changes" comment="Grade Calculator">
-      <change afterPath="$PROJECT_DIR$/src/Java_Coding_250_Interview_Questions/Code_01_UserInputExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Coding_250_Interview_Questions/Code_02_TablePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Coding_250_Interview_Questions/Code_03_FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Coding_250_Interview_Questions/Code_04_String_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab0080_InterviewQ_Simple.java" afterDir="false" />
+    <list default="true" id="94d011af-86b7-4e3e-a1c1-76c454f9f7db" name="Changes" comment="Coding practice">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab0079_InterviewQ_GradeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_08_If_Condition/Lab0079_InterviewQ_GradeCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningJavaATB15xProgram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java-Mastery.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,98 +47,98 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Code_02_TablePrint.executor": "Run",
-    "Application.Code_03_FizzBuzz.executor": "Run",
-    "Application.Lab0011_Variable_basic2.executor": "Run",
-    "Application.Lab0012_Variable_interviewQ.executor": "Run",
-    "Application.Lab0013_Variable_InterviewQ2.executor": "Run",
-    "Application.Lab0015_Variable_InterviewQ4.executor": "Run",
-    "Application.Lab0016_Variable_InterviewQ5.executor": "Run",
-    "Application.Lab0017_Variable_InterviewQ6.executor": "Run",
-    "Application.Lab0018_PrintF.executor": "Run",
-    "Application.Lab0019_Constants.executor": "Run",
-    "Application.Lab0019_Multiple_variables.executor": "Run",
-    "Application.Lab001_Addition.executor": "Run",
-    "Application.Lab001_HelloWorld.executor": "Run",
-    "Application.Lab0020_Literals.executor": "Run",
-    "Application.Lab0021_Boolean_Literal.executor": "Run",
-    "Application.Lab0023_Binary_Literals.executor": "Run",
-    "Application.Lab0024_Character_Literals.executor": "Run",
-    "Application.Lab0025_Literals_Escape_Sequence.executor": "Run",
-    "Application.Lab0026_Non_Premitive_Literals.executor": "Run",
-    "Application.Lab0027_Operator_Assignment.executor": "Run",
-    "Application.Lab0028_Arithmetic_Operators.executor": "Run",
-    "Application.Lab0029_Relational_Operators.executor": "Run",
-    "Application.Lab0029_Unary_Operators.executor": "Run",
-    "Application.Lab0031_Modules_Operators.executor": "Run",
-    "Application.Lab0032_Logical_Operators.executor": "Run",
-    "Application.Lab0033_InterviewQ_Operators.executor": "Run",
-    "Application.Lab0034_InterviewQ2_Operators.executor": "Run",
-    "Application.Lab0035_InterviewQ3_Operators.executor": "Run",
-    "Application.Lab0036_InterviewQ3_BODMAS.executor": "Run",
-    "Application.Lab0037_Double_Equals_Operators.executor": "Run",
-    "Application.Lab0038_InterviewQ.executor": "Run",
-    "Application.Lab0039_InterviewQ2.executor": "Run",
-    "Application.Lab0041_All_Operators_Examples.executor": "Run",
-    "Application.Lab0042_Instance_Operators_Examples.executor": "Run",
-    "Application.Lab0043_InterviewQuestion.executor": "Run",
-    "Application.Lab0045_InterviewQ_char_int.executor": "Run",
-    "Application.Lab0046_InterviewQ1_char_int.executor": "Run",
-    "Application.Lab0050_InterviewQ3.executor": "Run",
-    "Application.Lab0050_TypeCasting_2.executor": "Run",
-    "Application.Lab0051_TypeCasting_3.executor": "Run",
-    "Application.Lab0052_TypeCasting_4.executor": "Run",
-    "Application.Lab0053_TypeCasting_char_exampple.executor": "Run",
-    "Application.Lab0054_Ternary_Operator_01.executor": "Run",
-    "Application.Lab0055_Ternary_Operator_numispositiveornegative.executor": "Run",
-    "Application.Lab0056_Ternary_Operator_OddEven.executor": "Run",
-    "Application.Lab0057_Nested_Turnary_Operator.executor": "Run",
-    "Application.Lab0058_Nested_Turnary_Operator_01.executor": "Run",
-    "Application.Lab0058_Nested_Turnary_Operator_InterviewQ.executor": "Run",
-    "Application.Lab0060_Turnary_Operator_Three_Max_Number.executor": "Run",
-    "Application.Lab0061_CLI_Inputs_Java.executor": "Run",
-    "Application.Lab0062_PreOperators.executor": "Debug",
-    "Application.Lab0063_PostOperators.executor": "Run",
-    "Application.Lab0064_PostOperators_2.executor": "Run",
-    "Application.Lab0065_PostOperators_3.executor": "Run",
-    "Application.Lab0066_PostOperators_4.executor": "Run",
-    "Application.Lab0067_Decrement_Operator.executor": "Debug",
-    "Application.Lab0068_Interview_Q1.executor": "Debug",
-    "Application.Lab0069_Interview_Q2.executor": "Debug",
-    "Application.Lab006_Math_Exersize_Basic.executor": "Run",
-    "Application.Lab0070_Interview_Q3.executor": "Debug",
-    "Application.Lab0071_If_Statement.executor": "Run",
-    "Application.Lab0072_If_Statement.executor": "Run",
-    "Application.Lab0073_If_Statement_userInput.executor": "Run",
-    "Application.Lab0074_If_Statement_InterviewQ.executor": "Run",
-    "Application.Lab0075_If_ElseIf_Else.executor": "Run",
-    "Application.Lab0075_If_Else_InterviewQ.executor": "Run",
-    "Application.Lab0077_If_Else_InterviewQ2.executor": "Run",
-    "Application.Lab0078_If_Else_InterviewQ2_AlternativeWay.executor": "Run",
-    "Application.Lab0079_InterviewQ_GradeCalculator.executor": "Run",
-    "Application.Lab007_Math_Exersize_basic2.executor": "Run",
-    "Application.Lab0080_InterviewQ_Simple.executor": "Run",
-    "Application.Lab008_Println.executor": "Run",
-    "Application.Ternary_Operator.executor": "Run",
-    "Application.Ternary_max.executor": "Run",
-    "Application.UserInputExample.executor": "Run",
-    "Application.Variables.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Shivakumar Kali/IdeaProjects/LearningJavaATB15xProgram/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Code_02_TablePrint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Code_03_FizzBuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0011_Variable_basic2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0012_Variable_interviewQ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0013_Variable_InterviewQ2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0015_Variable_InterviewQ4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0016_Variable_InterviewQ5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0017_Variable_InterviewQ6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0018_PrintF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0019_Constants.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0019_Multiple_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001_Addition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001_HelloWorld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0020_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0021_Boolean_Literal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0023_Binary_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0024_Character_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0025_Literals_Escape_Sequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0026_Non_Premitive_Literals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0027_Operator_Assignment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0028_Arithmetic_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0029_Relational_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0029_Unary_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0031_Modules_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0032_Logical_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0033_InterviewQ_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0034_InterviewQ2_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0035_InterviewQ3_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0036_InterviewQ3_BODMAS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0037_Double_Equals_Operators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0038_InterviewQ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0039_InterviewQ2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0041_All_Operators_Examples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0042_Instance_Operators_Examples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0043_InterviewQuestion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0045_InterviewQ_char_int.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0046_InterviewQ1_char_int.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0050_InterviewQ3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0050_TypeCasting_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0051_TypeCasting_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0052_TypeCasting_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0053_TypeCasting_char_exampple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0054_Ternary_Operator_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0055_Ternary_Operator_numispositiveornegative.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0056_Ternary_Operator_OddEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0057_Nested_Turnary_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0058_Nested_Turnary_Operator_01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0058_Nested_Turnary_Operator_InterviewQ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0060_Turnary_Operator_Three_Max_Number.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0061_CLI_Inputs_Java.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0062_PreOperators.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab0063_PostOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0064_PostOperators_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0065_PostOperators_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0066_PostOperators_4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0067_Decrement_Operator.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab0068_Interview_Q1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab0069_Interview_Q2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab006_Math_Exersize_Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0070_Interview_Q3.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lab0071_If_Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0072_If_Statement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0073_If_Statement_userInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0074_If_Statement_InterviewQ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0075_If_ElseIf_Else.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0075_If_Else_InterviewQ.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0077_If_Else_InterviewQ2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0078_If_Else_InterviewQ2_AlternativeWay.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0079_InterviewQ_GradeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab007_Math_Exersize_basic2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0080_InterviewQ_Simple.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab008_Println.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ternary_Operator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ternary_max.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserInputExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Shivakumar Kali/IdeaProjects/LearningJavaATB15xProgram/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Code_03_FizzBuzz">
     <configuration name="Code_01_UserInputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Coding_250_Interview_Questions.Code_01_UserInputExample" />
-      <module name="LearningJavaATB15xProgram" />
+      <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java_Coding_250_Interview_Questions.*" />
@@ -155,7 +151,7 @@
     </configuration>
     <configuration name="Code_02_TablePrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Coding_250_Interview_Questions.Code_02_TablePrint" />
-      <module name="LearningJavaATB15xProgram" />
+      <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java_Coding_250_Interview_Questions.*" />
@@ -168,7 +164,7 @@
     </configuration>
     <configuration name="Code_03_FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Coding_250_Interview_Questions.Code_03_FizzBuzz" />
-      <module name="LearningJavaATB15xProgram" />
+      <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Java_Coding_250_Interview_Questions.*" />
@@ -181,7 +177,7 @@
     </configuration>
     <configuration name="Lab0079_InterviewQ_GradeCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab0079_InterviewQ_GradeCalculator" />
-      <module name="LearningJavaATB15xProgram" />
+      <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_08_If_Condition.*" />
@@ -194,7 +190,7 @@
     </configuration>
     <configuration name="Lab0080_InterviewQ_Simple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_08_If_Condition.Lab0080_InterviewQ_Simple" />
-      <module name="LearningJavaATB15xProgram" />
+      <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ex_08_If_Condition.*" />
@@ -295,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766942673918</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Coding practice">
+      <option name="closed" value="true" />
+      <created>1767422922748</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1767422922748</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,6 +322,7 @@
     <MESSAGE value="Java TernaryOperator - 23 Dec 2025" />
     <MESSAGE value="Other operators and If, if else statement practice - 28/12/2025" />
     <MESSAGE value="Grade Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Grade Calculator" />
+    <MESSAGE value="Coding practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Coding practice" />
   </component>
 </project>
