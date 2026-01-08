@@ -5,36 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d011af-86b7-4e3e-a1c1-76c454f9f7db" name="Changes" comment="Changes done">
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0081_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0082_Switch_Without_Break.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0083_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0084_Switch_Real_Automation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0085_Switch_basicInterview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0086_Switch_nterview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0087_Switch_InterviewQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0088_Switch_InterviewQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0089_Switch_Interview_duplicateCases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0090_Switch_JDKabove13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0091_Switch_JDKabove13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0092_Switch_interviewQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_09_Switch_Statement/Lab0093_Switch_interviewQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0094_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0095_For_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0096_For_Loop_variable_namechange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0097_For_Loop_Var_Name.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0098_For_Loop_InterviewQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0099_For_Loop_InterviewQ2_NoCondition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0100_For_If_Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0101_For_Loop_IQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0102_For_Loop_IQ_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0103_ForLoop_outside_init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0104_ForLoop_ConfusionQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0104_Odd_Even_From_TOP50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0106_ForLoop_break.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0107_For_loop_continue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0108_Factorial_Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0108_For_loop_Real_Use_Case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0108_For_loop_continue_Even_Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Coding_250_Interview_Questions/Code_01_UserInputExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Coding_250_Interview_Questions/Code_02_TablePrint.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Coding_250_Interview_Questions/Code_03_FizzBuzz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Coding_250_Interview_Questions/Code_04_String_Palindrome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0104_Odd_Even_From_TOP50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10_For_Loop/Lab0105_Odd_Even_From_TOP50.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +148,9 @@
     "Application.Lab0102_ForLoop_outside_init.executor": "Run",
     "Application.Lab0104_ForLoop_ConfusionQ.executor": "Run",
     "Application.Lab0104_Odd_Even_From_TOP50.executor": "Run",
+    "Application.Lab0106_ForLoop_break.executor": "Run",
+    "Application.Lab0107_For_loop_continue.executor": "Run",
+    "Application.Lab0108_For_loop_continue_Even_Numbers.executor": "Run",
     "Application.Ternary_Operator.executor": "Run",
     "Application.Ternary_max.executor": "Run",
     "Application.UserInputExample.executor": "Run",
@@ -185,46 +165,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab0104_Odd_Even_From_TOP50">
-    <configuration name="Lab0100_For_If_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab0100_For_If_Loop" />
-      <module name="Java-Mastery" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_10_For_Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab0101_For_Loop_IQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab0101_For_Loop_IQ" />
-      <module name="Java-Mastery" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_10_For_Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab0103_ForLoop_outside_init" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab0103_ForLoop_outside_init" />
-      <module name="Java-Mastery" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_10_For_Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab0108_For_loop_continue_Even_Numbers">
     <configuration name="Lab0104_ForLoop_ConfusionQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab0104_ForLoop_ConfusionQ" />
       <module name="Java-Mastery" />
@@ -238,8 +179,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0104_Odd_Even_From_TOP50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab0104_Odd_Even_From_TOP50" />
+    <configuration name="Lab0105_Odd_Even_From_TOP50" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab0105_Odd_Even_From_TOP50" />
+      <module name="Java-Mastery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_10_For_Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab0106_ForLoop_break" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab0106_ForLoop_break" />
+      <module name="Java-Mastery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_10_For_Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab0107_For_loop_continue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab0107_For_loop_continue" />
+      <module name="Java-Mastery" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_10_For_Loop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab0108_For_loop_continue_Even_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_10_For_Loop.Lab0108_For_loop_continue_Even_Numbers" />
       <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -252,19 +232,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab0100_For_If_Loop" />
-      <item itemvalue="Application.Lab0101_For_Loop_IQ" />
-      <item itemvalue="Application.Lab0103_ForLoop_outside_init" />
+      <item itemvalue="Application.Lab0106_ForLoop_break" />
+      <item itemvalue="Application.Lab0107_For_loop_continue" />
+      <item itemvalue="Application.Lab0108_For_loop_continue_Even_Numbers" />
       <item itemvalue="Application.Lab0104_ForLoop_ConfusionQ" />
-      <item itemvalue="Application.Lab0104_Odd_Even_From_TOP50" />
+      <item itemvalue="Application.Lab0105_Odd_Even_From_TOP50" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab0104_Odd_Even_From_TOP50" />
+        <item itemvalue="Application.Lab0108_For_loop_continue_Even_Numbers" />
+        <item itemvalue="Application.Lab0107_For_loop_continue" />
+        <item itemvalue="Application.Lab0106_ForLoop_break" />
+        <item itemvalue="Application.Lab0105_Odd_Even_From_TOP50" />
         <item itemvalue="Application.Lab0104_ForLoop_ConfusionQ" />
-        <item itemvalue="Application.Lab0103_ForLoop_outside_init" />
-        <item itemvalue="Application.Lab0101_For_Loop_IQ" />
-        <item itemvalue="Application.Lab0100_For_If_Loop" />
       </list>
     </recent_temporary>
   </component>

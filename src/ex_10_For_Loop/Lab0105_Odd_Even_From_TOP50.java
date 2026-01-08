@@ -1,6 +1,6 @@
 package ex_10_For_Loop;
 
-public class Lab0104_Odd_Even_From_TOP50 {
+public class Lab0105_Odd_Even_From_TOP50 {
     public static void main(String[] args) {
         for(int i =1;i<=50;i++)
         {
