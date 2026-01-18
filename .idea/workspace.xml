@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94d011af-86b7-4e3e-a1c1-76c454f9f7db" name="Changes" comment="String, StringBuilder and StringBuffers">
-      <change afterPath="$PROJECT_DIR$/src/ex_14_String/Lab0141_String_Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0142_Array_Max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0143_Array_Min.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0144_Array_declaration_alltype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0145_Array_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0146_Array_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0147_Array_03.java" afterDir="false" />
+    <list default="true" id="94d011af-86b7-4e3e-a1c1-76c454f9f7db" name="Changes" comment="Array basics">
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0148_Array_MaxNumber02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0149_Array_UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0150_Array_ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0151_Sum_of_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0152_2nd_highest_number_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_15_Array/Lab0152_abc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -186,11 +185,18 @@
     "Application.Lab0140_ReverseString.executor": "Debug",
     "Application.Lab0141_String_Palindrome.executor": "Run",
     "Application.Lab0142_Array.executor": "Run",
+    "Application.Lab0142_Array_Max.executor": "Run",
     "Application.Lab0142_Array_Min.executor": "Run",
     "Application.Lab0144_Array_declaration_alltype.executor": "Run",
     "Application.Lab0145_Array_01.executor": "Run",
     "Application.Lab0145_Array_02.executor": "Run",
     "Application.Lab0147_Array_03.executor": "Run",
+    "Application.Lab0147_Array_MaxNumber02.executor": "Run",
+    "Application.Lab0149_Array_UserInput.executor": "Run",
+    "Application.Lab0150_Array_ReverseArray.executor": "Run",
+    "Application.Lab0150_Sum_of_Array.executor": "Debug",
+    "Application.Lab0152_2nd_highest_number_Array.executor": "Run",
+    "Application.Lab0152_abc.executor": "Run",
     "Application.Lab0187_Diff_While_and_Do_While.executor": "Run",
     "Application.Ternary_Operator.executor": "Run",
     "Application.Ternary_max.executor": "Run",
@@ -206,9 +212,9 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab0147_Array_03">
-    <configuration name="Lab0143_Array_Min" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Array.Lab0143_Array_Min" />
+  <component name="RunManager" selected="Application.Lab0152_abc">
+    <configuration name="Lab0149_Array_UserInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Array.Lab0149_Array_UserInput" />
       <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -220,8 +226,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0144_Array_declaration_alltype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Array.Lab0144_Array_declaration_alltype" />
+    <configuration name="Lab0150_Array_ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Array.Lab0150_Array_ReverseArray" />
       <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -233,8 +239,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0145_Array_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Array.Lab0145_Array_01" />
+    <configuration name="Lab0151_Sum_of_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Array.Lab0151_Sum_of_Array" />
       <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -246,8 +252,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0146_Array_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Array.Lab0146_Array_02" />
+    <configuration name="Lab0152_2nd_highest_number_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Array.Lab0152_2nd_highest_number_Array" />
       <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -259,8 +265,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0147_Array_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_15_Array.Lab0147_Array_03" />
+    <configuration name="Lab0152_abc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_15_Array.Lab0152_abc" />
       <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
@@ -273,19 +279,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab0143_Array_Min" />
-      <item itemvalue="Application.Lab0144_Array_declaration_alltype" />
-      <item itemvalue="Application.Lab0145_Array_01" />
-      <item itemvalue="Application.Lab0146_Array_02" />
-      <item itemvalue="Application.Lab0147_Array_03" />
+      <item itemvalue="Application.Lab0149_Array_UserInput" />
+      <item itemvalue="Application.Lab0150_Array_ReverseArray" />
+      <item itemvalue="Application.Lab0151_Sum_of_Array" />
+      <item itemvalue="Application.Lab0152_2nd_highest_number_Array" />
+      <item itemvalue="Application.Lab0152_abc" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab0147_Array_03" />
-        <item itemvalue="Application.Lab0146_Array_02" />
-        <item itemvalue="Application.Lab0145_Array_01" />
-        <item itemvalue="Application.Lab0144_Array_declaration_alltype" />
-        <item itemvalue="Application.Lab0143_Array_Min" />
+        <item itemvalue="Application.Lab0152_abc" />
+        <item itemvalue="Application.Lab0152_2nd_highest_number_Array" />
+        <item itemvalue="Application.Lab0151_Sum_of_Array" />
+        <item itemvalue="Application.Lab0150_Array_ReverseArray" />
+        <item itemvalue="Application.Lab0149_Array_UserInput" />
       </list>
     </recent_temporary>
   </component>
@@ -418,7 +424,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768450320058</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Array basics">
+      <option name="closed" value="true" />
+      <created>1768670989451</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1768670989451</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -448,6 +462,7 @@
     <MESSAGE value="Revalidated only" />
     <MESSAGE value="Do while loops and functions/Methods" />
     <MESSAGE value="String, StringBuilder and StringBuffers" />
-    <option name="LAST_COMMIT_MESSAGE" value="String, StringBuilder and StringBuffers" />
+    <MESSAGE value="Array basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Array basics" />
   </component>
 </project>
