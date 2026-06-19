@@ -5,13 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94d011af-86b7-4e3e-a1c1-76c454f9f7db" name="Changes" comment="Exceptions">
-      <change afterPath="$PROJECT_DIR$/src/ex_27_Exceptions/Lab0193_Try_InterviewQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27_Exceptions/Lab0194_Try_InterviewQ2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27_Exceptions/Lab0195_Try_InterviewQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27_Exceptions/Lab0196_Try_InterviewQ4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27_Exceptions/Lab0197_Vulnerable_Code.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27_Exceptions/Lab0198_Try_catch_Finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_27_Exceptions/Lab0199_Try_catch_Finally_uses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28_Collection_Framework/List/Lab0200_ArrayProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28_Collection_Framework/List/Lab0201_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28_Collection_Framework/List/Lab0204_ArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28_Collection_Framework/List/Lab0205_List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28_Collection_Framework/Set/Lab0207_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28_Collection_Framework/Set/Lab0208_Set_HS_LHS_TS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29_Generics/Lab0202_Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_29_Generics/Lab0203_ActualGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_30_Wrapper_Class/Lab0204_Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_30_Wrapper_Class/Lab0205_Wrapper_Conversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -245,6 +248,12 @@
     "Application.Lab0197_Vulnerable_Code.executor": "Run",
     "Application.Lab0198_Try_catch_Finally.executor": "Run",
     "Application.Lab0199_Try_catch_Finally_uses.executor": "Run",
+    "Application.Lab0201_List.executor": "Run",
+    "Application.Lab0202_Generics.executor": "Run",
+    "Application.Lab0203_ActualGenerics.executor": "Run",
+    "Application.Lab0204_ArrayList.executor": "Run",
+    "Application.Lab0207_Set.executor": "Run",
+    "Application.Lab0208_Set_HS_LHS_TS.executor": "Run",
     "Application.LoginPage1.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.RightTriangle.executor": "Run",
@@ -269,13 +278,13 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab0199_Try_catch_Finally_uses">
-    <configuration name="Lab0195_Try_InterviewQ3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27_Exceptions.Lab0195_Try_InterviewQ3" />
+  <component name="RunManager" selected="Application.Lab0208_Set_HS_LHS_TS">
+    <configuration name="Lab0202_Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_29_Generics.Lab0202_Generics" />
       <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27_Exceptions.*" />
+          <option name="PATTERN" value="ex_29_Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,12 +292,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0196_Try_InterviewQ4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27_Exceptions.Lab0196_Try_InterviewQ4" />
+    <configuration name="Lab0203_ActualGenerics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_29_Generics.Lab0203_ActualGenerics" />
       <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27_Exceptions.*" />
+          <option name="PATTERN" value="ex_29_Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0197_Vulnerable_Code" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27_Exceptions.Lab0197_Vulnerable_Code" />
+    <configuration name="Lab0204_ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28_Collection_Framework.List.Lab0204_ArrayList" />
       <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27_Exceptions.*" />
+          <option name="PATTERN" value="ex_28_Collection_Framework.List.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -309,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0198_Try_catch_Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27_Exceptions.Lab0198_Try_catch_Finally" />
+    <configuration name="Lab0207_Set" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28_Collection_Framework.Set.Lab0207_Set" />
       <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27_Exceptions.*" />
+          <option name="PATTERN" value="ex_28_Collection_Framework.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab0199_Try_catch_Finally_uses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_27_Exceptions.Lab0199_Try_catch_Finally_uses" />
+    <configuration name="Lab0208_Set_HS_LHS_TS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28_Collection_Framework.Set.Lab0208_Set_HS_LHS_TS" />
       <module name="Java-Mastery" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_27_Exceptions.*" />
+          <option name="PATTERN" value="ex_28_Collection_Framework.Set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,19 +345,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab0195_Try_InterviewQ3" />
-      <item itemvalue="Application.Lab0196_Try_InterviewQ4" />
-      <item itemvalue="Application.Lab0197_Vulnerable_Code" />
-      <item itemvalue="Application.Lab0198_Try_catch_Finally" />
-      <item itemvalue="Application.Lab0199_Try_catch_Finally_uses" />
+      <item itemvalue="Application.Lab0207_Set" />
+      <item itemvalue="Application.Lab0208_Set_HS_LHS_TS" />
+      <item itemvalue="Application.Lab0202_Generics" />
+      <item itemvalue="Application.Lab0203_ActualGenerics" />
+      <item itemvalue="Application.Lab0204_ArrayList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab0199_Try_catch_Finally_uses" />
-        <item itemvalue="Application.Lab0198_Try_catch_Finally" />
-        <item itemvalue="Application.Lab0197_Vulnerable_Code" />
-        <item itemvalue="Application.Lab0196_Try_InterviewQ4" />
-        <item itemvalue="Application.Lab0195_Try_InterviewQ3" />
+        <item itemvalue="Application.Lab0208_Set_HS_LHS_TS" />
+        <item itemvalue="Application.Lab0207_Set" />
+        <item itemvalue="Application.Lab0204_ArrayList" />
+        <item itemvalue="Application.Lab0203_ActualGenerics" />
+        <item itemvalue="Application.Lab0202_Generics" />
       </list>
     </recent_temporary>
   </component>
@@ -577,7 +586,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771086764840</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Exceptions">
+      <option name="closed" value="true" />
+      <created>1771143443961</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1771143443961</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
